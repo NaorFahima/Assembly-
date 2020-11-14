@@ -1,1 +1,2 @@
-# Assembly
+# MIPS Assembly
+MIPS Assembly project
